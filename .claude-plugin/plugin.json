@@ -4,9 +4,13 @@
   "version": "1.0.0",
   "description": "Brainstorming in three rounds on a shared Whiteboard: Claude proposes ideas, you or your team judge with stickers and comments, and the session ends with a design note and tasks. Four optional rounds are borrowed from Six Sigma.",
   "author": {
-    "name": "Atomi"
+    "name": "AtomiJD",
+    "url": "https://github.com/AtomiJD"
   },
   "license": "MIT",
+  "homepage": "https://github.com/AtomiJD/creative-board",
+  "repository": "https://github.com/AtomiJD/creative-board",
+  "icon": ".claude-plugin/icon.png",
   "keywords": [
     "brainstorming",
     "creativity",

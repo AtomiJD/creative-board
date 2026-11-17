@@ -38,6 +38,14 @@ Borrowed from Six Sigma, off by default, at most two per session. Claude propose
 - A design note: the decisions with their mechanisms and numbers, and what was dropped and why.
 - Tickets in your project's tracker, if one is connected. Without a tracker, a numbered task list in the note.
 
+## Install
+
+In Claude, add Creative Board from the plugin directory. In Claude Code, install it straight from this repository:
+
+```
+/plugin install creative-board --marketplace AtomiJD/creative-board
+```
+
 ## Usage
 
 Type `/creative-board`, or ask for a brainstorm on a board, a whiteboard session or a team vote on ideas.

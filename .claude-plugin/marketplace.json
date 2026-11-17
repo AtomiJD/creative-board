@@ -1,0 +1,15 @@
+{
+  "name": "atomijd",
+  "description": "Claude plugins by AtomiJD.",
+  "owner": {
+    "name": "AtomiJD",
+    "url": "https://github.com/AtomiJD"
+  },
+  "plugins": [
+    {
+      "name": "creative-board",
+      "source": "./",
+      "description": "Brainstorming in three rounds on a shared Whiteboard, judged with stickers and comments, ending in a design note and tasks."
+    }
+  ]
+}
